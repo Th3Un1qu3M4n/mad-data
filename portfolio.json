@@ -1,0 +1,32 @@
+{
+  "name":"Muhammad Ahmed",
+  "avatar":"https://avatars.githubusercontent.com/u/57266167?v=4",
+  "email":"iamAhmed.developer@gamil.com",
+  "website":"ahmedev.me",
+  "address":"Ghauri Town ,Islamabad",
+  "socials":[
+    {"github":"https://github.com/Th3Un1qu3M4n"},
+    {"linkedin":"https://linkedin.com/in/Th3Un1qu3M4n"},
+    {"facebook":"https://facebook.com/Th3Un1qu3M4n"}    
+    ],
+  "education":[
+    {"title":"Matric",
+      "address":"Fazaia Inter College, PAF Complex, sector E-9, Islamabad",
+      "subject":"Computer Science"},
+    {"title":"Intermidiate",
+      "address":"Punjab College, Quaid Campus, Rawalpindi",
+      "subject":"ICS (Phys)"},
+    {"title":"Bachlors",
+      "address":"Fazaia Inter College, PAF Complex, sector E-9, Islamabad",
+      "subject":"BS Computer Science"}
+    ],
+  "work":[
+    {"title":"Freelancing",
+      "post":"MERN Stack Developer",
+      "date":"2022  -  Currently Working"},
+    {"title":"Disegno Art Studio",
+      "post":"WordPress Developer",
+      "date":"2020  -  2021"}
+    ],
+  "skills":["HTML", "CSS", "JAVASCRIPT", "NodeJs", "ExpressJS", "Bootstrap", "JQUERY", "ReactJs", "React Native"]
+}
